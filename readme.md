@@ -1,4 +1,4 @@
-This script is up to date to add automatically contact from search list.
+This script is up to date for 2024 to add automatically contact from search list.
 Make sure to let add note on false regarding the restriction per day.
 Make sure to use Linkedin in english version.
 Pay attention to the weekly limit add.
